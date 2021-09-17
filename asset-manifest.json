@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/busi-employee-directory/static/css/main.61bdee10.chunk.css",
+    "main.js": "/busi-employee-directory/static/js/main.e8f319fe.chunk.js",
+    "main.js.map": "/busi-employee-directory/static/js/main.e8f319fe.chunk.js.map",
+    "runtime-main.js": "/busi-employee-directory/static/js/runtime-main.0b9f337f.js",
+    "runtime-main.js.map": "/busi-employee-directory/static/js/runtime-main.0b9f337f.js.map",
+    "static/js/2.b70e723e.chunk.js": "/busi-employee-directory/static/js/2.b70e723e.chunk.js",
+    "static/js/2.b70e723e.chunk.js.map": "/busi-employee-directory/static/js/2.b70e723e.chunk.js.map",
+    "index.html": "/busi-employee-directory/index.html",
+    "static/css/main.61bdee10.chunk.css.map": "/busi-employee-directory/static/css/main.61bdee10.chunk.css.map",
+    "static/js/2.b70e723e.chunk.js.LICENSE.txt": "/busi-employee-directory/static/js/2.b70e723e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b9f337f.js",
+    "static/js/2.b70e723e.chunk.js",
+    "static/css/main.61bdee10.chunk.css",
+    "static/js/main.e8f319fe.chunk.js"
+  ]
+}
